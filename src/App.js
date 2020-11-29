@@ -17,7 +17,7 @@ function App() {
 			
 			<p className="text">My name is Timur Sabet (Student ID: 22343) and I am SE student, who took your <strong>Engineering Drawing and Design Attestation</strong> this winter semester. </p>
 			
-			<p className="text">Although I had some SolidWorks experience before , I wanted to take this semester seriously and started practicing a few weeks before the first assignment by doing small and easy exercises from the YouTube. </p>
+			<p className="text">Although I had some SolidWorks experience before , I wanted to take this semester seriously and started practicing a few weeks before the first assignment by doing small and easy exercises from the YouTube. (<a href="https://www.youtube.com/c/CADCAMTUTORIAL/videos">link</a>) </p>
 			
 			<div className="row text-image">
 				<div className="col">
@@ -29,7 +29,7 @@ function App() {
 				</div>
 			</div>
 			
-			<p className="text">Of course, I wouldn't just submit the answer, so I started doing the task, but in the end my final answer was different again, but after several checks with the drawing, I couldn't find my mistake. Due to low time remaining and nervousness, I decided to submit my current part with the "correct" answer. Only after submission, I realized, that I should have submitted the answer that I got and not the "correct" answer that I remember.</p>
+			<p className="text">Of course, I wouldn't just submit the answer, so I started doing the task, but in the end my final answer was different again, but after several checks with the drawing, I couldn't find my mistake. Due to low time remaining and nervousness, and because I have already made a mistake on my first assignment, I wanted to get the maximum score so I decided to submit my current part with the "correct" answer. Only after submission, I realized, that I should have submitted the answer that I got and not the "correct" answer that I remember.</p>
 			
 			<div className="row text-image">
 				<div className="col">
