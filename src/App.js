@@ -17,7 +17,7 @@ function App() {
 			
 			<p className="text">My name is Timur Sabet (Student ID: 22343) and I am SE student, who took your <strong>Engineering Drawing and Design Attestation</strong> this winter semester. </p>
 			
-			<p className="text">Although I had some SolidWorks experience before , I wanted to take this semester seriously and started practicing a few weeks before the first assignment by doing small and easy exercises from the YouTube. (<a href="https://www.youtube.com/c/CADCAMTUTORIAL/videos">link</a>) </p>
+			<p className="text">Although I had some SolidWorks experience before , I wanted to take this semester seriously and started practicing a few weeks before the first assignment by doing small and easy exercises from the YouTube. (<a href="https://www.youtube.com/c/CADCAMTUTORIAL/videos">link</a>)</p>
 			
 			<div className="row text-image">
 				<div className="col">
