@@ -16,7 +16,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          CI: false;
+         CI: false
       - name: Archive Production Artifact
         uses: actions/upload-artifact@master
         with:
